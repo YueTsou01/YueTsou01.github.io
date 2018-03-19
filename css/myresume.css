@@ -7,10 +7,11 @@ body{
 h1{
 	font-family:inherit;
 	text-transform: none;
-	line-height:5.5rem;}
+	line-height:6rem;}
 
 .subheading
 {
 	font-family:inherit;
 	text-transform: none;
-	line-height:2rem;}
+	line-height:2rem;
+	margin-top:1rem;}
