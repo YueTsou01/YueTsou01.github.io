@@ -7,7 +7,8 @@ body{
 h1{
 	font-family:inherit;
 	text-transform: none;
-	line-height:6rem;}
+	line-height:6rem;
+	}
 h2 {
 	font-family: inherit;
 }
@@ -99,5 +100,4 @@ Sidenav{
 {
 	font-family:inherit;
 	text-transform: none;
-	line-height:2rem;
 	margin-top:1rem;}
