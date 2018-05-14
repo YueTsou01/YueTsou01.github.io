@@ -2,6 +2,9 @@
 
 body{
 		font-family:'Noto Sans','Noto Sans TC'
+		background-color:#f093fb 0%, #f58b57 100%, #fad0c4 100%;
+		
+		
 }
 		
 h1{
@@ -16,10 +19,10 @@ h2 {
 h3 {
 	font-family: inherit;
 }
-.circle{
-	background-image:linear-gradient(45deg, #f093fb 0%, #f58b57 100%, #fad0c4 100%);
-	background-color:white;
-}
+
+
+	
+
 	
 .timeline {
   position: relative;
